@@ -1,0 +1,147 @@
+{
+	"info": {
+		"_postman_id": "876f5480-d4d6-41c5-8333-68d849c2d89d",
+		"name": "Gangup",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Save Story",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\" : \"live and work well\",\n\t\"emailId\" : \"abc@optum.com\",\n\t\"story\" : \"this is second story description of story that iam going to write bla bla bla bla\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8081/story",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"story"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "save gang",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\" : \"Story name\",\n\t\"emailId\" : \"sindhu@optum.com\",\n\t\"gangtype\" : \"Parenting\",\n\t\"meetdate\" : \"12/06/2020 7:00 PM\",\n\t\"age\" : \"above 18\",\n\t\"description\" : \"This is a meeting for parenting chaos during covid\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8081/gang",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"gang"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Stories by email id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/stories/sindhu@optum.com",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"stories",
+						"sindhu@optum.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Gang by email id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/gang/sindhu@optum.com",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"gang",
+						"sindhu@optum.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all stories",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/stories",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"stories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all gangs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/gangs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"gangs"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
