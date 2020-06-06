@@ -40,6 +40,8 @@ https://github.com/kammarisindhu/GangUp/blob/master/Documents/TheArchitecture.pn
 
 https://github.com/kammarisindhu/GangUp/blob/master/Documents/Team%20Theons.docx
 https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
+
+
 #Project Roadmap
 
 
@@ -48,7 +50,6 @@ https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
 #Running the tests
 
 #Live demo
-
 
 #Built with
 
