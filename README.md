@@ -32,19 +32,38 @@ We at GangUp provide a platform for all women to share their voice. This is a on
 #Demo video
 
 
-#The architecture
+#The architecture:
+
 https://github.com/kammarisindhu/GangUp/blob/master/Documents/TheArchitecture.png
 
 #Long description
 
+https://github.com/kammarisindhu/GangUp/blob/master/Documents/Team%20Theons.docx
+https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
 #Project Roadmap
 
+
 #Getting started
+
 #Running the tests
+
 #Live demo
+
+
 #Built with
+
 #Contributing
+
 #Versioning
+v1.0.0
+
 #Authors
+Sindhu Kammari
+Alisha Kapoor
+Deepali Fulara
+Kajal Yadav
+
 #License
+
 #Acknowledgments
+Based on: https://github.com/Code-and-Response/Project-Sample/
