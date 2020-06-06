@@ -2,6 +2,7 @@
 We at GangUp provide a platform for all women to share their voice. This is a one stop solution for all women to get inspired, share their stories, virtually meet up with others, seek advice from experts and get to know what is going in the women world. 
 
 #Contents
+
 Short description
 Demo video
 The architecture
@@ -18,6 +19,7 @@ License
 Acknowledgments
 
 #Short description
+
 What's the problem?
 
 Woman with their socializing instincts try their best when it comes to making connections and bond together.
@@ -45,16 +47,16 @@ https://github.com/kammarisindhu/GangUp/blob/master/Documents/Team%20Theons.docx
 https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
 
 
-#Project Roadmap
-
-
 #Getting started
 
-#Running the tests
+https://github.com/kammarisindhu/GangUp/blob/master/HTML/index.html
+
 
 #Live demo
 
 #Built with
+
+Html, css, Springboot, H2 Db
 
 #Contributing
 
