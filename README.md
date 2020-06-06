@@ -62,9 +62,13 @@ https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
 v1.0.0
 
 #Authors
+
 Sindhu Kammari
+
 Alisha Kapoor
+
 Deepali Fulara
+
 Kajal Yadav
 
 #License
