@@ -59,6 +59,7 @@ https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
 #Contributing
 
 #Versioning
+
 v1.0.0
 
 #Authors
@@ -74,4 +75,5 @@ Kajal Yadav
 #License
 
 #Acknowledgments
+
 Based on: https://github.com/Code-and-Response/Project-Sample/
