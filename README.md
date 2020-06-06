@@ -36,6 +36,7 @@ We at GangUp provide a platform for all women to share their voice. This is a on
 
 #Demo video
 
+https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/DescriptiveDemoVideo.mp4
 
 #The architecture:
 
@@ -53,6 +54,8 @@ https://github.com/kammarisindhu/GangUp/blob/master/HTML/index.html
 
 
 #Live demo
+
+https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/LiveVideo.mp4
 
 #Built with
 
