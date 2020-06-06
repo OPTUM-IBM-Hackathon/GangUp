@@ -66,9 +66,9 @@ v1.0.0
 
 #Authors
 
-Sindhu Kammari
+Sindhu Kammari -- Commander
 
-Alisha Kapoor
+Alisha Kapoor 
 
 Deepali Fulara
 
