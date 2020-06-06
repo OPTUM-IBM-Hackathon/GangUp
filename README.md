@@ -23,8 +23,6 @@ Woman with their socializing instincts try their best when it comes to making co
 Due to this pandemic we all have become distant from each other.
 Our team strongly believes that we all need a solution to bridge this gap, get inspired to bring life on track, share /solve each others problems and struggles
 
-
-
 How can technology help?
 In the pandemic like solution, the safest option is to stay at home and connect virtually with the help of tehchnology.
 
@@ -35,6 +33,7 @@ We at GangUp provide a platform for all women to share their voice. This is a on
 
 
 #The architecture
+https://github.com/kammarisindhu/GangUp/blob/master/Documents/TheArchitecture.png
 
 #Long description
 
