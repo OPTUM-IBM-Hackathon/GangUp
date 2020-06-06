@@ -7,15 +7,11 @@ Short description
 Demo video
 The architecture
 Long description
-Project roadmap
 Getting started
-Running the tests
 Live demo
 Built with
-Contributing
 Versioning
 Authors
-License
 Acknowledgments
 
 #Short description
@@ -34,23 +30,25 @@ The idea
 
 We at GangUp provide a platform for all women to share their voice. This is a one stop solution for all women to get inspired, share their stories, virtually meet up with others, seek advice from experts and get to know what is going in the women world. 
 
+
 #Demo video
 
 https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/DescriptiveDemoVideo.mp4
 
+
 #The architecture:
 
-https://github.com/kammarisindhu/GangUp/blob/master/Documents/TheArchitecture.png
+https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/TheArchitecture.png
 
 #Long description
 
-https://github.com/kammarisindhu/GangUp/blob/master/Documents/Team%20Theons.docx
-https://github.com/kammarisindhu/GangUp/blob/master/Documents/GangUp.pptx
+https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/Team%20Theons.docx
+https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/GangUp.pptx
 
 
 #Getting started
 
-https://github.com/kammarisindhu/GangUp/blob/master/HTML/index.html
+https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/HTML/index.html
 
 
 #Live demo
@@ -61,23 +59,23 @@ https://github.com/OPTUM-IBM-Hackathon/GangUp/blob/master/Documents/LiveVideo.mp
 
 Html, css, Springboot, H2 Db
 
-#Contributing
-
 #Versioning
 
 v1.0.0
 
 #Authors
 
-Sindhu Kammari -- Commander
+  Sindhu Kammari -- Commander
+  (sindhu_k@optum.com)
 
-Alisha Kapoor 
+  Alisha Kapoor 
+  (alisha_kapoor@optum.com(
 
-Deepali Fulara
+  Deepali Fulara
+  (deepali_fulara@optum.com)
 
-Kajal Yadav
-
-#License
+  Kajal Yadav
+  (kajal_yadav@optum.com)
 
 #Acknowledgments
 
